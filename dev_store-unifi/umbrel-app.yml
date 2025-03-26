@@ -1,0 +1,26 @@
+manifestVersion: 1
+id: dev_store-unifi
+name: unifi
+tagline: 
+icon: https://tyzbit.blog/images/3/e/7/8/d/3e78da251a284ca9488804397a49aa39e875c1e6-ubiquiti.jpg
+category: Lan
+version: "1.0.0"
+port: 8080
+description: >-
+
+    No description.
+
+developer: RenatoUb
+website: 
+submitter: RenatoUb
+submission:
+repo:
+support: 
+gallery:
+  - https://preview.redd.it/9jle7c79rlj31.jpg?width=1080&crop=smart&auto=webp&s=82321e3fde652224c38573bb5affc872aa6725c8
+  - https://img.community.ui.com/4fd2d645-380f-40d6-b755-1bfe477baf96/questions/95330f44-b26c-4264-a16e-00d37b03905a/3862934f-daac-4d30-a8e8-7cebffa8050b
+
+releaseNotes: >
+  
+dependencies: []
+path: ""
